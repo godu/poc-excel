@@ -1,0 +1,15 @@
+{
+  "name": "POC-excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "xlsx": "https://github.com/CoorpAcademy/js-xlsx.git"
+  }
+}
